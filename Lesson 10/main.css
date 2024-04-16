@@ -1,0 +1,21 @@
+table,
+tr,
+td{
+    width: 400px;
+    border: 1px solid;
+    border-collapse: collapse;
+    height: 80px;
+}
+.text{
+    text-align: center;
+    background-color: red;
+  
+}
+.qwer{
+    text-align: center;
+    background-color: blue;
+}
+.asdf{
+    text-align: center;
+    background-color: white;
+}
